@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.bak
+
+# Video files (too large for git)
+data/*.mp4
+data/*.mkv
+data/*.webm
+data/*.mov
+data/*.png
+data/*.jpg
+
+# Watch working directories
+watch-*/
